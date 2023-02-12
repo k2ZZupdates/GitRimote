@@ -1,1 +1,1 @@
-# GitRimote
+# GitRemote
